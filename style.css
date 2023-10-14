@@ -1,0 +1,55 @@
+/* Apply styles to the body element */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header section */
+header {
+    background-color: #227a9c;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style the container div */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+}
+
+/* Style the main heading */
+h1 {
+    color: #333;
+}
+
+/* Style section headings */
+h2 {
+    color: #333;
+    margin-top: 20px;
+}
+
+/* Style unordered lists within sections */
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Style individual list items */
+li {
+    margin-bottom: 10px;
+}
+
+/* Add styles to links */
+a {
+    color: #0074d9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
